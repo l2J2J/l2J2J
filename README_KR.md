@@ -1,7 +1,7 @@
 # 👋 안녕하세요, 이정재입니다
 
 <p align="right">
-  <a href="https://github.com/I2J2J/I2J2J/blob/main/README.md">
+  <a href="https://github.com/I2J2J/I2J2J2J/blob/main/README.md">
     <img src="https://img.shields.io/badge/Language-English-red?style=flat-square&logo=Read-the-Docs&logoColor=white"/>
   </a>
 </p>
