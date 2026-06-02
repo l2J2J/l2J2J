@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="mailto:내이메일@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/AI-Engineer-c7bd4b7cc1b882fda87681e2467fdf5a?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=Microsoft-SharePoint&logoColor=white"/></a>
+  <a href="https://www.notion.so/AI-Engineer-c7bd4b7cc1b882fda87681e2467fdf5a?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=Microsoft-SharePoint&gradientColor=white"/></a>
   <a href="https://velog.io/@jeongjae/posts"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
 
