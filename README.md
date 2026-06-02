@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jungjae Lee
 
 <p align="right">
-  <a href="https://github.com/I2J2J/I2J2J/blob/main/README_KR.md">
+  <a href="https://github.com/I2J2J/I2J2J2J/blob/main/README_KR.md">
     <img src="https://img.shields.io/badge/Language-한국어-blue?style=flat-square&logo=Read-the-Docs&logoColor=white"/>
   </a>
 </p>
